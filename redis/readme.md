@@ -1,1 +1,2 @@
 
+配置好redis并安装hiredis之后可以使用myredis.c样例文件进行测试
